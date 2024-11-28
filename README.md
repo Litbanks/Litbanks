@@ -2,7 +2,7 @@
 - 👀 I’m interested in Bots and AI.
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on deloping AI Bots.
-- 📫 Reach me on X @LitBanks_
+- 📫 Reach me on X @LitBanksX 
 - ⚡ Fun fact: I don't give a damn fuck!
 
 <!---
